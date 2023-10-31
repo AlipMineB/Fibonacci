@@ -5,10 +5,6 @@ NIM : 312210163
 
 Kelas : TI.22.A1
 
-Matkul : Pemrograman Mobile 1
-
-Dosen : Donny Maulana, S.Kom., M.M.S.I.
-
 # Instruksi
 Soalnya adalah dari project sebelumnya Toast number dan Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan Fibonacci. Fibonacci Sequence (Deret angka Fibonacci) adalah deret angka yang diperoleh dengan menjumlahkan dua angka didepannya / sebelumnya:
 
