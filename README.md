@@ -206,6 +206,15 @@ public class MainActivity extends AppCompatActivity {
     <color name="colorPrimary">#3F5185</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="birumuda">#ABCBFA</color>
+    <color name="salem">#F8C6E6</color>
+    <color name ="purple">#E3A2ED</color>
+    <color name="hijau">#92A676</color>
+    <color name="biru">#8FC2EA</color>
+    <color name="hijaumuda">#C2E69C</color>
+    <color name="kuning">#FFEB3B</color>
+    <color name="orange">#FF9800</color>
+    <color name="cream">#E6C18A</color>
 </resources>
 
 # 5. Hasil
